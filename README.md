@@ -2,4 +2,7 @@
 
 alteração do arquivo através do repositório remoto!
 
+
 confirmação de alteração só no protótipo
+lembrei do comando git status - tela inicial
+
